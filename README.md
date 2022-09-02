@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
 <h3 align="center">A passionate Python developer from Poland</h3>
 <img aling="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 - 🔭 I’m currently working on **Youtube GUI Downloader**
 
 - 🌱 I’m currently learning **Python API and OOP**
