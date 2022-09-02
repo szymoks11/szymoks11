@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python API and OOP**
 
-- 👨‍💻 All of my projects are available at [symbox.pl](symbox.pl)
+- 👨‍💻 All of my projects are available at [szymoks11.pl](szymoks11.pl)
 
 - 📫 How to reach me **flisszymo@wp.pl**
 
