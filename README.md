@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on TaskTalk
 
-- 🌱 I’m currently learning **Django and React**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [szymoks11.pl](szymoks11.pl)
 
